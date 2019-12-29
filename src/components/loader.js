@@ -25,8 +25,9 @@ const StyledLogo = styled.div`
   transition: ${theme.transition};
   opacity: ${props => (props.isMounted ? 1 : 0)};
   svg {
-    width: 100%;
-    height: 100%;
+    position: center;
+    width: 200px;
+    height: 900px;
     display: block;
     margin: 0 auto;
     fill: none;
@@ -46,8 +47,8 @@ const Loader = ({ finishLoading }) => {
     loader
       .add({
         targets: '#logo path',
-        delay: 500,
-        duration: 2000,
+        delay: 10,
+        duration: 500,
         easing: 'easeInOutQuart',
         strokeDashoffset: [anime.setDashoffset, 0],
       })

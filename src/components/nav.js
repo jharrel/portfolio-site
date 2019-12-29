@@ -46,8 +46,8 @@ const StyledLogo = styled.div`
   a {
     display: block;
     color: ${colors.green};
-    width: 42px;
-    height: 42px;
+    width: 220px;
+    height: 300px;
     &:hover,
     &:focus {
       svg {
