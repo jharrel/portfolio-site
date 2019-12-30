@@ -1,4 +1,4 @@
-![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png)
+<!-- ![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png) -->
 
 ## 🛠 Installation & Set Up
 
