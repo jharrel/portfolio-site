@@ -1,7 +1,7 @@
 ---
 date: '2019-5-12'
 title: 'Star Wars Character'
-github: 'https://github.com/jharrel/comic-shelf'
+github: 'https://github.com/jharrel/creator'
 external: ''
 tech:
   - JavaScript

@@ -1,6 +1,6 @@
 ---
 date: '2018-05-01'
-title: 'Rascal Gets A New Look'
+title: 'Rascal Gets Bandits Tickets'
 github: ''
 external: 'https://youtu.be/KUOvm8K3ibg'
 tech:

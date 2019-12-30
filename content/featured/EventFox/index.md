@@ -2,8 +2,8 @@
 date: '4'
 title: 'Eventfox Management'
 cover: './eventfox.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/jharrel/eventfox-management-app'
+external: 'https://eventfox-management-app.herokuapp.com/'
 tech:
   - Ruby on Rails
   - HTML/CSS
