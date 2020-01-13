@@ -127,8 +127,7 @@ const Footer = () => {
           href="https://github.com/jharrel"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Jason Harrel</div>
-
+          <div>Modified by Jason Harrel. </div>
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
               <span>
@@ -142,6 +141,9 @@ const Footer = () => {
             </StyledGitHubInfo>
           )}
         </StyledGitHubLink>
+        <div>
+          Design courtesy <a href="https://brittanychiang.com"> Brittany Chiang</a>{' '}
+        </div>
       </StyledMetadata>
     </StyledContainer>
   );
